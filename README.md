@@ -5,5 +5,5 @@ open app.html in chrome/firefox
 play the game with the arrows keys.   
 paused/restart the game with the space key.  
 
-[play online](https://lonelywildcat.github.io/bubble-shooter/snake.html)
+[play online]( https://lonelywildcat.github.io/snake/app.html )
 
